@@ -8,7 +8,7 @@
 - descrição do processo criativo, desde o final do 1º relatório;
 - tomada de decisão em grupo qual é a interface final;
 - descrição da intereção da interação com o sistema solicitado e sua avaliação;
-- escolha da palete de cores;
+- ~~escolha da palete de cores;~~
 - Mostrar imagens de protótipos de “média fidelidade”, criados para uma análise aprofundada.
 - avaliações dos protótipos: grelhas e escalas de avaliação.
 - Propor novos modelos com base nas avaliações efectuadas.
