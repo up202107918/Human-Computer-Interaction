@@ -15,10 +15,12 @@
 \usepackage{wrapfig}
 \usepackage{titlesec}
 \usepackage{float}
-\usepackage{mwe}
 \usepackage[T1]{fontenc}
 \usepackage{tabularx}
-\graphicspath{{./imagens/}}
+\usepackage{rotating}
+\usepackage{subcaption}
+\hypersetup{hidelinks}
+\graphicspath{{./imagens/}{./Paletes}}
 \titleformat{\chapter}[display]
   {\normalfont\bfseries}{}{0pt}{\Huge}
 
@@ -42,11 +44,15 @@
 \maketitle
 
 \tableofcontents
+\listoffigures
+\listoftables
 
 \onehalfspacing 
 \include{Introduction}
 \include{Section1}
 \include{Section2}
+\include{Section3}
+\include{Section4}
 \include{Conclusion}
 
 \appendix 
