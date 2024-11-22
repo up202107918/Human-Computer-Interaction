@@ -1,8 +1,8 @@
-# Em atraso:
-(vai ser colocado no ponto 3 da seção 3)
-- Avaliar e debater a 1ª iteração dos esboços (estes últimos)
-- Se necessário, elaborar novo esboço para cada painel
-- Elaborar storyboard     ----------------------> sem o qual não podemos avançar para a fase seguinte!
+# Até 28/Nov (5a):
+- Esboço figma (média fidelidade) - para avaliação heurística;
+-     Necessário ter alguma interação (rudimentar?);
+- Escrever relatório da avaliação passeio cognitivo;
+- Escolha da fonte;
 
 # Para fazer - 2º relatório:
 - descrição do processo criativo, desde o final do 1º relatório;
@@ -58,3 +58,11 @@ Secção 4
 
 
 # Obrigatório tirar conclusões (e escrevê-las) dos resultados da votação.
+
+# Tarefas concluídas (manter por uma questão de organização e verificação do relatório2):
+### Em atraso:
+(vai ser colocado no ponto 3 da seção 3)
+- ~~Avaliar e debater a 1ª iteração dos esboços (estes últimos)~~
+- ~~Se necessário, elaborar novo esboço para cada painel~~
+- ~~Elaborar storyboard     ----------------------> sem o qual não podemos avançar para a fase seguinte!~~
+
