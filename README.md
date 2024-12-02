@@ -2,7 +2,7 @@
 - Esboço figma (média fidelidade) - para avaliação heurística;
 -     Necessário ter alguma interação (rudimentar?);
 - Escrever relatório da avaliação passeio cognitivo;
-- Escolha da fonte;
+- ~~Escolha da fonte;~~
 
 # Para fazer - 2º relatório:
 - descrição do processo criativo, desde o final do 1º relatório;
