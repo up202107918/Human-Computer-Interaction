@@ -1,6 +1,6 @@
 \chapter{Section 3}
 \section{Summary of the Situation After the First Assignment}
-\subsection{Dashboard}
+\subsection{Dashboard} \label{dashboard}
 In the preceding report, no version incorporating any 
 of the panel members was presented. 
 \begin{figure}[H]
@@ -11,6 +11,8 @@ of the panel members was presented.
     \caption{Dashboard}
 \end{figure}
 \section{Detected Problems and Sketches in Low Fidelity}
+Some sketches were hard to understand, particularly 
+some of the Cameras Panel sketches, like sketch 3. 
 \section{Visual Features}
 \subsection{Choice of Color Palette}
 In order to create a colour palette for use in the 
@@ -28,7 +30,8 @@ which are presented beneath. \par
     }\hfill
     \subfloat[Palette 3]{
         \includegraphics[width=.33\textwidth]{palete3.png}
-    }%
+    }
+    %
     }
     \centerline{%
     \subfloat[Palette 4]{
@@ -41,8 +44,8 @@ which are presented beneath. \par
         \includegraphics[width=.33\textwidth]{palete6.png}
     }%
     }
-\end{figure}
-\begin{figure}[H]\ContinuedFloat
+%\end{figure}
+%\begin{figure}[H]\ContinuedFloat
     \centerline{%
     \subfloat[Palette 7]{
         \includegraphics[width=.33\textwidth]{palete7.png}
@@ -76,6 +79,8 @@ which are presented beneath. \par
         \includegraphics[width=.33\textwidth]{palete16.png}
     }%
     }
+\end{figure}
+\begin{figure}[H]\ContinuedFloat
     \centerline{%
     \subfloat[Palette 17]{
         \includegraphics[width=.33\textwidth]{palete17.png}
@@ -92,6 +97,7 @@ which are presented beneath. \par
         \includegraphics[width=.33\textwidth]{palete21.png}
     }%
     }
+    \caption{All the Colour Palettes Generated}
 \end{figure}
 Subsequently, each member of the group selected their 
 five preferred palettes, as illustrated in the 
@@ -128,7 +134,7 @@ and 20 were each assigned two votes. \par
     \centerline{%
     \subfloat[Palette 19]{
         \includegraphics[width=.33\textwidth]{palete19.png}
-    }\hfill
+    }%\hfill
     \subfloat[Palette 20]{
         \includegraphics[width=.33\textwidth]{palete20.png}
     }%
@@ -178,7 +184,20 @@ color codes of the first ranked palette, Palette 10 as we mentioned
 (1F363D, 40798C, 70A9A1, 9EC1A3 and CFE0C3) and used them 
 in Figma (a web application focused on user interface 
 (UI) and user experience (UX) design), in order to replicate 
-the dashboard shown in .
+the dashboard shown in \ref{dashboard}.
 \section{Improvements}
-As we were developing our
-\section{Description of the Visible System Components}
+As we were developing the final dashboard which will be 
+discussed in \ref{description}, we felt the need to add 
+new colors to the chosen palette, due to confrontations with 
+the map.
+\section{Description of the Visible System Components} \label{description}
+So, the final dashboard is made up of the following: 
+\begin{itemize}
+    \item Log Panel: showcases real-time alerts
+    \item Map: 
+    \item Resources Panel: enlists the number of resources 
+    available on the chosen local area
+    \item Situation Panel:
+    \item Cameras Panel: gives the user the possibility 
+    to alternate between camera angles
+\end{itemize}

@@ -1,0 +1,62 @@
+\documentclass[11pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{afterpage}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{listings}
+\usepackage[a4paper, width=150mm, top=25mm, bottom=25mm, headheight=15pt, bindingoffset=6mm]{geometry}
+\usepackage{natbib}
+\usepackage{verbatim}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{babel}
+\usepackage{setspace}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{float}
+\usepackage[T1]{fontenc}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{subcaption}
+\usepackage{enumerate}
+\newcommand{\ts}{\textsuperscript}
+%\usepackage[super]{nth}
+\hypersetup{hidelinks}
+\graphicspath{{./imagens/}{./Paletes}{./Dashboard}}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge}
+
+\title{Wildfire Prevention and Fighting Dashboard Design}
+\author{
+    Helena Silva\\
+    \texttt{up200803677@up.pt}
+    \and
+    Rui Costa\\ 
+    \texttt{up202108271@up.pt}
+    \and  
+    Sérgio Cardoso\\
+    \texttt{up202107918@up.pt}
+    \and
+    Tomás Fontes\\
+    \texttt{up202107382@up.pt}\\\\\\
+    \includegraphics[width=0.5\textwidth]{FCUP}
+}
+
+\begin{document}
+\maketitle
+
+%\listoffigures 
+%\listoftables
+
+\onehalfspacing 
+\pagenumbering{arabic}
+%\include{Introduction}
+\include{Section3}
+\include{Section4}
+%\include{Conclusion}
+
+\pagenumbering{roman}
+\appendix 
+\include{Appendices}
+\end{document}
